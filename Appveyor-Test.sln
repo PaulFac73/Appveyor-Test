@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appveyor-Test", "Appveyor-Test\Appveyor-Test.csproj", "{92A5C9A5-270D-4F12-A528-5735BACDA66F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A5C9A5-270D-4F12-A528-5735BACDA66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A5C9A5-270D-4F12-A528-5735BACDA66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A5C9A5-270D-4F12-A528-5735BACDA66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A5C9A5-270D-4F12-A528-5735BACDA66F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C21B452-A302-44F8-A0BC-AE404AA06F69}
+	EndGlobalSection
+EndGlobal
